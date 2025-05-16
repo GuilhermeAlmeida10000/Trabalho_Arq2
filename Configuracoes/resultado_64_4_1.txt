@@ -1,0 +1,3 @@
+nAcessosI: 49165608
+nAcessosD: 13994129
+nFalhasL1: 19937043

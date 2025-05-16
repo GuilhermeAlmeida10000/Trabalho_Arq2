@@ -1,0 +1,9 @@
+nAcessosI: 49165608
+nAcessosD: 13994129
+nFalhasL1: 22040383
+
+
+nAcessosI: 49165608
+nAcessosD: 13994129
+nFalhasI1: 30854510
+nFalhasD1: 7001576
